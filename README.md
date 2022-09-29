@@ -1,3 +1,8 @@
+## Project to learn NextJs + ReactJs + Tailwind
+
+![image](https://user-images.githubusercontent.com/52689135/193137457-14e51597-29fc-406d-a7f1-3060798b5666.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
